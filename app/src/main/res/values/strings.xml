@@ -1,0 +1,8 @@
+<resources>
+   <string name="app_name">MyStatisticsApp</string>
+   <string name="statistics">Статистика</string>
+   <string name="users_txt">Посетители</string>
+   <string name="loading_data">Загрузка данных...</string>
+   <string name="error_txt">Ошибка:</string>
+   <string name="profile_most_often">Чаще всех посещают Ваш профиль</string>
+</resources>
