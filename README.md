@@ -8,10 +8,25 @@
 
 ## 📸 Скриншоты / Демонстрация
 
-![Image](https://github.com/user-attachments/assets/0aff7248-4d03-4295-9c76-14d4e12169ba)
-![Image](https://github.com/user-attachments/assets/6e323273-d153-4a38-972e-bce905fa301a)
-![Image](https://github.com/user-attachments/assets/fd7ac155-67ca-4619-bfcd-7336cc2901e7)
-![Image](https://github.com/user-attachments/assets/50ffd902-5c9d-477f-b014-e0400c9cc640)
+![Image](https://github.com/user-attachments/assets/e779d9b2-39b9-4594-8b7c-a2111e832e10)
+![Image](https://github.com/user-attachments/assets/f48cc265-bb60-4218-81f2-c8e0e5e46f19)
+![Image](https://github.com/user-attachments/assets/ee0081d4-97a7-4a75-a344-1c02daa059bc)
+![Image](https://github.com/user-attachments/assets/9fd93971-7712-46f7-9dcf-1f334ac8ff71)
+
+## ⚙️ Установка и Запуск
+
+1.  **Клонируйте репозиторий:**
+    ```bash
+    git clone [https://github.com/Mingaleev-D/StatisticsApp.git]
+    ```
+2.  **Откройте проект в Android Studio:**
+    Запустите Android Studio и откройте клонированный проект.
+3.  **Дождитесь синхронизации Gradle:**
+    Android Studio автоматически начнет синхронизацию Gradle. Дождитесь её завершения.
+4.  **Выберите устройство:**
+    Выберите любой доступный эмулятор (API 24+ рекомендуется) или подключите физическое устройство.
+5.  **Запустите приложение:**
+    Нажмите кнопку `Run` (зеленый треугольник) в Android Studio.
 
 ## 🏗️ Архитектура Проекта
 
